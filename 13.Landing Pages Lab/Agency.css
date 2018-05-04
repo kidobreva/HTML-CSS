@@ -1,0 +1,407 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+body > header {
+    padding-top: 20px;
+    background: url(P01_ConsultingAgency/images/Layer-759_02.jpg) no-repeat;
+    background-size: cover;
+    height: 735px;
+}
+
+nav, ul {
+    height: 60px;
+    list-style: none;
+}
+
+header nav {
+    background: rgba(199, 157, 99, .75);
+    width: 1100px;
+    margin: 0 auto
+}
+
+header nav ul.nav-primary {
+    background: rgba(199,157,99,0.75);
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul.nav-primary li.nav-item {
+    line-height: 60px;
+    margin: 0 70px 0 auto;
+}
+
+header nav ul.nav-primary li.nav-item a {
+    color: #ffffff;
+    font-weight: 900;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+header nav ul.nav-primary .home.nav-item {
+    margin-left:30px;
+}
+
+header nav ul.nav-primary .home.nav-item a {
+    color: #ffffff;
+    opacity: 0.7;
+}
+
+header div.consulting-rev {
+    width: 500px;
+    margin: 0 auto;
+}
+
+header div.consulting-rev h1 {
+    color: #ffffff;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+header div.consulting-rev p {
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+}
+
+header div.consulting-rev a {
+    margin: 20px auto;
+    display: block;
+    width: 120px;
+    height: 25px;
+    background: #090821;
+    padding: 10px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.consulting-rev a:hover, .consulting-rev a:hover .fa-chevron-right {
+    background: #c79d63;
+    color: #090821;
+    cursor: pointer;
+}
+
+header div.consulting-rev i {
+    color: #c79d63;
+}
+
+main header h2 {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+    margin-top: 50px;
+}
+
+main section article {
+    width: 25%;
+    display: inline-block;
+    margin-left: 18px;
+}
+
+main > header h2 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+
+}
+
+main section.travel-business-customer div.icon {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    background: #090821;
+    color: #fff;
+    border-radius: 50%;
+    margin-right: 7px;
+}
+
+main section.travel-business-customer article p {
+    font-size: 16px;
+    margin: 10px 0 0;
+    text-transform: none;
+    color: #000000;
+    text-align: left;
+}
+
+main section.travel-business-customer article header h2 {
+    text-align: left;
+}
+
+main section.financial-energy-surface div.icon {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    background: #090821;
+    color: #fff;
+    border-radius: 50%;
+    margin-right: 7px;
+}
+
+main section.financial-energy-surface article p {
+    font-size: 16px;
+    margin: 10px 0 0;
+    text-transform: none;
+    color: #000000;
+    text-align: left;
+}
+
+main section.financial-energy-surface article header h2 {
+    text-align: left;
+}
+
+main h5{
+    text-align: center;
+    font-size: 24px;
+    width: 520px;
+    margin: 0 auto;
+}
+
+main section.banner {
+    margin-bottom: 0;
+    margin-top: 40px;
+    padding-top: 35px;
+    padding-bottom: 46px;
+    display: block;
+    position: relative;
+}
+
+main section.banner span {
+    color: #c79d63;
+}
+
+main section.banner::after {
+    content: "";
+    background-size: cover;
+    opacity: 0.3;
+    background: url(P01_ConsultingAgency/images/steel-bg.jpg) center center;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+main section.traders {
+    margin: 0;
+    padding-top: 35px;
+    padding-bottom: 46px;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0, 0.6)),
+    url('P01_ConsultingAgency/images/background-choose-us.jpg') no-repeat center;
+    background-size: cover;
+}
+
+main section.traders h2 {
+    text-align: center;
+    font-size: 40px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+main section.traders div.article-container {
+    display: flex;
+    justify-content: center;
+}
+
+main section.traders div.article-container a {
+    margin-right: 30px;
+    padding: 20px;
+    width: 300px;
+    border: 2px solid #c79d63;
+    text-align: center;
+    text-decoration: none;
+}
+
+.article-container a:hover, .article-container a:hover p, .article-container a:hover h4 {
+    background: #fff;
+    color: #090821;
+}
+
+main section.traders div.article-container a h4 {
+    color: #fff;
+    margin: 0 0 17px 17px;
+    padding-top: 21px;
+    letter-spacing: 0;
+    font-size: 20px;
+}
+
+main section.traders div.article-container a p {
+    margin: 0 0 17px 17px;
+    font-size: 13px;
+    line-height: 18px;
+    color: #ffffff;
+}
+
+main section.consulting-woman {
+    background-image: url("P01_ConsultingAgency/images/consulting-woman.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin: 0;
+    position: relative;
+}
+
+main section.consulting-woman article.testimonial-info {
+    position: absolute;
+    top: 70px;
+    right: 40px;
+    width: 500px;
+    padding: 64px 60px 53px 60px;
+    background: rgba(255, 255, 255, .7);
+}
+
+.testimonial-info > p::before,
+.testimonial-info > p::after {
+    content: open-quote;
+    color: #c79d63;
+    font-size: 32px;
+}
+
+.testimonial-info > p::after {
+    content: close-quote;
+}
+
+main section.consulting-woman article.testimonial-info footer {
+    margin-top: 20px;
+    text-align: left;
+}
+
+main section.consulting-woman article.testimonial-info footer h4 {
+    font-size: 24px;
+}
+
+main section.consulting-woman article.testimonial-info footer p {
+    padding: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #777777;
+}
+
+footer {
+    height: 280px;
+    background: rgb(9, 8, 33);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    color: #ffffff
+}
+
+main section.partners {
+    height: 90px;
+    margin-top: 45px;
+}
+
+main section.partners ul {
+    display: flex;
+    justify-content: center;
+}
+
+main section.partners ul li a img {
+    width: 135px;
+    height: 60px;
+}
+
+footer.footer div.info-socials-container h2 {
+    color: #ffffff;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+footer.footer div.info-socials-container {
+    list-style: none;
+}
+
+footer.footer div.info-socials-container ul.info li {
+    color: #ffffff;
+    width: 180px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+footer.footer div.info-socials-container ul.info li i {
+    font-size: 16px;
+    padding: 2px;
+}
+
+footer.footer div.info-socials-container li ul.socials {
+    display: flex;
+    justify-content: center;
+    width: 153px;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+footer.footer div.info-socials-container li ul.socials li {
+    width: 200px;
+}
+
+footer.footer div.info-socials-container li ul.socials li a {
+    display: block;
+    width: 32px;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    border-radius: 50%;
+    background: rgb(131,131,143);
+    color: #090821;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+footer.footer div.extra-links ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 148px;
+    width: 200px;
+}
+
+footer.footer div.extra-links ul li {
+    display: block;
+    padding: 5px;
+}
+
+footer.footer div.extra-links ul li a {
+    color: #c79d63;
+    text-decoration: none;
+}
+
+footer.footer div.instagram-widget ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 300px;
+}
+
+footer.footer div.instagram-widget ul li a img {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
+

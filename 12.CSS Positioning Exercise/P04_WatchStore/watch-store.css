@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lemon-Regular, Arial;
+    background: #602C74;
+}
+
+main{
+    font-family: Lemon-Regular, Arial;
+    margin: 0 auto;
+    width: 900px;
+    height: 520px;
+    background-color: #FFAE31;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+main header h1 {
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 800;
+}
+
+main article {
+    width: 220px;
+    float: left;
+    background: #5F2055;
+    margin-left: 60px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+main article div {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 800;
+    color: #ffffff;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
+main article h2 {
+    font-size: 15px;
+    color: #FFDD50;
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 5px;
+}
+
+main img {
+    width: 190px;
+    border-radius: 50%;
+    border: 5px solid #846A76;
+    margin-left: 10px;
+}
+
+main article p {
+    margin-top: 3px;
+    margin-left: 20px;
+    color: #ffffff;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+main article button {
+    margin-left: 9px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    padding: 5px 60px 5px 60px;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    color: #994FF4;
+}
+
+
+

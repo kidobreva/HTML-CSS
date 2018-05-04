@@ -1,0 +1,98 @@
+@import "https://fonts.googleapis.com/css?family=Francois+One";
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300";
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Francois One';
+    background: #EEF3FA;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+    background: #f4fcff;
+}
+
+main header h1 {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 57px;
+    color: #002C3C;
+    border-bottom: 5px solid #31D47D;
+    width: 370px;
+    margin-left: 500px;
+}
+
+main form {
+    display: flex;
+    flex-direction: column;
+    width: 370px;
+    box-sizing: border-box;
+    margin: 30px auto;
+}
+
+
+
+main form .main-input label {
+    color: #274451;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+}
+
+main form .main-input label span.hidden {
+    color: #BBBFCA;
+}
+
+main form .main-input label span.star {
+    color: #F42867;
+    font-size: 14px;
+}
+
+main form .main-input {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+main form .main-input div input {
+    width: 370px;
+    height: 34px;
+    border: 1px solid #BEDBE6;
+
+}
+
+main form .main-input div input::placeholder {
+    padding-left: 50px;
+    font-size: 17px;
+}
+
+main form .main-input div i {
+    position: absolute;
+    bottom: 7px;
+    left: 13px;
+    border-right: 3px solid #BEDBE6;
+    width: 26px;
+    height: 18px;
+    font-size: 20px;
+}
+
+main button {
+    float: right;
+    margin-right: 377px;
+    margin-top: -24px;
+    padding: 13px 30px;
+    background: #31D47D;
+    color: #FFFFFF;
+    border: none;
+    font-size: 20px;
+}
+
+
+
+
+
+

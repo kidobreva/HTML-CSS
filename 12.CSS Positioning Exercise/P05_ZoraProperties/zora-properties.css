@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Open+Sans:400,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font: 14px "Open Sans", Arial, sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+aside, main {
+    float: left;
+}
+
+aside {
+    width: 20%;
+    box-sizing: border-box;
+    padding: 25px;
+    text-align: center;
+}
+
+aside figure img {
+    border-radius: 50%;
+    width: 200px;
+}
+
+aside nav ul {
+    list-style: none;
+    text-align: left;
+}
+
+aside nav ul li {
+    margin: 0 0 10px 0;
+}
+
+aside nav ul li:hover a {
+    color: #333;
+}
+
+aside nav ul li a {
+    color: #91a5af;
+}
+
+main {
+    width: 80%;
+    box-sizing: border-box;
+    padding: 25px;
+    background-color: #f3f5f7;
+}
+
+main header h1 {
+    float: left;
+}
+
+main header button {
+    float: right;
+}
+
+.clearfix {                 /* може да се сложи вместо класа clearfix: header: after {} със същото съдържание*/
+    content: '';            /* но тогава трябва да се издрие div елем. от html кода*/
+    display: block;
+    clear: both;
+}
+
+main section {
+    margin: 0 0 25px 0;
+}
+
+main section:last-child {
+    margin: 0;
+}
+
+main section div.articles-container article {
+    float: left;
+    width: 20%;
+    margin-right: 30px;
+    box-shadow: 8px 6px 17px -1px rgba(0,0,0,0.26);
+    background-color: #ffffff;
+}
+
+main section div.articles-container article .status {
+    position: relative;
+    top: 50px;
+    left: -10px;
+    background-color: #dedede;
+    padding: 5px 10px;
+    width: 50px;
+    display: block;
+    text-align: center;
+}

@@ -1,0 +1,44 @@
+@media all and  (max-width: 960px) {
+    #wrapper {
+        max-width: 100%;
+    }
+}
+
+@media all and  (max-width: 780px) {
+
+    body #wrapper > header nav ul li {
+        flex-grow: 1;
+    }
+}
+
+@media all and  (max-width: 640px) {
+    body #wrapper > header h1 a img {
+        margin: 0 auto;
+    }
+
+    body #wrapper > header h1 a span {
+        margin: 0 auto;
+    }
+
+    body #wrapper > header nav ul li {
+        width: 100%;
+    }
+
+    body #wrapper > aside {
+        width: 100%;
+    }
+
+    body #wrapper > aside div {
+        width: 50%;
+    }
+
+    body #wrapper > section {
+        width: 100%;
+    }
+}
+
+@media all and  (max-width: 480px) {
+    body #wrapper > aside div {
+        width: 100%;
+    }
+}

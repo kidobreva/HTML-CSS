@@ -1,0 +1,158 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+
+body {
+    font-size: 13px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    background: #ebebeb;
+}
+
+.clearfix {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+h2 {
+    font-size: 16px;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+main header {
+    height: 100px;
+    background-color: #f1f1f1;
+}
+
+main header h1 {
+    line-height: 100px;
+    color: #389FE5;
+    margin-left: 10px;
+    font-size: 28px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-weight: normal;
+    border-bottom: 1px dashed #dddddd;
+}
+
+main section {
+    margin-top: 40px;
+    display: inline-block;
+    border-bottom: 1px dashed #dddddd;
+}
+
+main section div {
+    float: left;
+    width: 79%;
+}
+
+main section div p {
+    font-size: 14px;
+}
+
+main section label {
+    float: right;
+    display: block;
+    width: 21%;
+    position: relative;
+}
+
+main section label span {
+    display: block;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-left: 60px;
+}
+
+main section label input {
+    margin-left: 60px;
+    padding: 5px;
+
+}
+
+main section label i {
+    position: absolute;
+    right: 23px;
+    bottom: 3px;
+}
+
+form {
+    border-bottom: 1px dashed #DDDDDD;
+}
+
+form label.left {
+    float: left;
+    display: block;
+    width: 45%;
+}
+
+form label.left h2 {
+    display: block;
+}
+
+form label.left input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+form .right {
+    width: 55%;
+    display: inline-block;
+}
+
+form .right select {
+    padding: 5px;
+    width: 250px;
+}
+
+form .right #number span {
+    margin-left: 10px;
+}
+
+form .right input[type="number"] {
+    padding: 5px;
+}
+
+form .right select, form .right input[type="number"] {
+    margin-bottom: 20px;
+}
+
+#check-in, #check-out {
+    display: block;
+}
+
+#check-in span, #check-in input {
+    display: block;
+    width: 40%;
+    padding: 5px;
+
+}
+
+#check-out span, #check-out input {
+    display: block;
+
+    width: 40%;
+    padding: 5px;
+}
+
+main button {
+    float: right;
+    margin-top: 35px;
+    margin-right: 40px;
+    padding: 8px 35px;
+    text-transform: capitalize;
+    color: #ffffff;
+    border: none;
+    background-color: #32A2E4;
+    border-radius: 5px;
+}
+
+main button:hover {
+    background-color: #3BBC96;
+    cursor: pointer;
+}
+

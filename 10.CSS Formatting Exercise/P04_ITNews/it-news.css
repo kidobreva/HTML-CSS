@@ -1,0 +1,56 @@
+@import "https://www.google.com/fonts#UsePlace:use/Collection:Vollkorn";
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0 auto;
+    width: 1200px;
+    font-family: Vollkorn, sans-serif;
+}
+
+header h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+article{
+    margin: 0 auto;
+    width: 1200px;
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+article img{
+    width: 300px;
+    border: 1px solid #E8E7E7;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+article div{
+    width: 800px;
+    float: right;
+}
+
+article div h2{
+    color: #72aeb4;
+    font-weight: normal;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+article div span{
+    font-style: italic;
+}
+
+article div p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+article div a{
+    color: #72aeb4;
+}

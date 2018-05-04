@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Open+Sans:400,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    background: #927057;
+    color: #ffffff;
+    padding: 20px;
+    font-family: Oxygen, sans-serif;
+}
+
+header.image-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+header.image-container img {
+    border: 5px solid #d5c395;
+    height: 123px;
+}
+
+main {
+    width: 470px;
+    margin: 50px auto 0;
+    padding: 50px 60px 70px 60px;
+    background: #d5c395;
+    position: relative;
+}
+
+main:before {
+    position: absolute;
+    top: -30px;
+    left: 259px;
+    background: url(images/triangle.png) no-repeat 0 0;
+    display: block;
+    height: 35px;
+    width: 68px;
+    content: "";
+}
+
+main form div.input input  {        /* може да стилизираме по input[type="text"], input[password]*/
+    outline: none;
+    border: none;
+    background: #efe1c4;
+    padding: 10px 10px 10px 60px;
+    width: 85%;
+    font-size: 1.1em;
+    color: #927057;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+main form button {
+    outline: none;
+    border: none;
+    background: #927057;
+    padding: 10px;
+    width: 100%;
+    max-width: 500px;
+    font-size: 1.5em;
+    color: #d5c395;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+main form div.input {
+    position: relative;
+}
+
+main form div.input i {
+    position: absolute;
+    left: 12px;
+    top: 10px;
+    width: 20px;
+    height: 20px;
+    border: none;
+    color: #927057;
+    font-size: 21px;
+}
+
+footer {
+    font-size: 1em;
+    color: #EFE1C4;
+    text-align: center;
+}

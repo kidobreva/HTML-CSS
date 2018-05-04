@@ -1,0 +1,123 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+@media all and (max-width: 1200px) {
+    .content-wrap {
+        display: block;
+    }
+
+    .wrapper {
+        width: 100%;
+    }
+
+    .module-text.centered {
+        width: 90%;
+        margin-left: 57px;
+    }
+
+    .main-foot .wrapper {
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    main-foot address, main-foot nav {
+        width: 50%;
+    }
+    /*.main-foot address,
+    .main-foot nav:nth-child(2) {
+        float: left;
+        width: 50%;
+        box-sizing: border-box;
+
+    }
+
+    .main-foot nav:first-child,
+    .main-foot nav:last-child {
+        float: right;
+        width: 50%;
+    }*/
+}
+
+@media all and (max-width: 700px) {
+    .main-head .logo img {
+        max-width: 60%;
+    }
+
+    .hero-head {
+        background: #171720;
+        min-height: 465px;
+    }
+
+    .main-nav {
+        display: none;
+        position: relative;
+
+    }
+
+    .main-nav ul {
+        content: "\f0c9";
+        position: absolute;
+        right: 20px;
+    }
+
+    .hero-head h1 {
+        text-align: center;
+        line-height: 40px;
+        font-size: 32px;
+        padding-top: 28px;
+        width: 100%;
+    }
+
+    .hero-head .goal {
+        text-align: center;
+        line-height: 25px;
+        max-width: 100%;
+    }
+
+    .content-wrap {
+        text-align: center;
+    }
+
+    .content-wrap h3 {
+        font-size: 30px;
+    }
+
+    .button {
+        width: 100%;
+        margin-left: 15px;
+        font-weight: normal;
+        border: 1px solid;
+        font-size: 14px;
+    }
+
+    .content-wrap.content-wrap-full h3 {
+        font-size: 25px;
+    }
+
+    .button-list li {
+        display: block;
+        margin: 0 30px 20px 0;
+    }
+
+    .large-text-link {
+        font-size: 17px;
+        text-align: center;
+        margin-left: 275px;
+    }
+
+    .sponsors h3 {
+        font-size: 25px;
+    }
+
+    .module-text.centered {
+        margin-left: 32px;
+    }
+
+    .main-foot .wrapper {
+        flex-flow: column;
+        text-align: center;
+    }
+
+    .main-foot .bottom .copyright {
+        float: none;
+    }
+}

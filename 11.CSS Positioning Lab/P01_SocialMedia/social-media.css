@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0 auto;
+    background: #292929;
+}
+
+footer{
+    width: 1300px;
+    height: 200px;
+    margin: 0 auto;
+    color: #ffffff;
+}
+
+footer section {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+footer section h2 {
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+footer section ul {
+    list-style: none;
+    margin-top: 15px;
+}
+
+footer section ul li {
+    text-decoration: none;
+}
+
+footer section ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #C4C49F;
+    font-size: 25px;
+}
+
+footer div{
+    margin-top: 10px;
+}
+
+footer div div {
+    width: 70px;
+    height: 58px;
+    background: url("images/social.jpg");
+    display: inline-block;
+}
+
+footer div div.linkedin {
+    background-position-x: 643px;
+    background-position-y: 0px;
+}
+
+footer div div.youtube {
+    background-position-x: 324px;
+    background-position-y: 0px;
+}
+
+footer div div.twitter {
+    background-position-x: 770px;
+    background-position-y: 0px;
+}
+
+footer div div.facebook:hover {
+    background-position-x: 0px;
+    background-position-y: 61px;
+    cursor: pointer;
+}
+
+footer div div.linkedin:hover {
+    background-position-x: 643px;
+    background-position-y: 61px;
+    cursor: pointer;
+}
+
+footer div div.youtube:hover {
+    background-position-x: 324px;
+    background-position-y: 61px;
+    cursor: pointer;
+}
+
+footer div div.twitter:hover {
+    background-position-x: 770px;
+    background-position-y: 61px;
+    cursor: pointer;
+}

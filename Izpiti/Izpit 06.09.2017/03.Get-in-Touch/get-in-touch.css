@@ -1,0 +1,106 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+@import "https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900";
+
+body {
+    width: 100%;
+    font-family: Lato, sans-serif;
+    margin: 0 auto;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+main {
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+}
+
+main form {
+    width: 60%;
+}
+
+main form p {
+    font-size: 13px;
+    width: 95%;
+    line-height: 1.3;
+}
+
+.first-container, .second-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    width: 370px;
+    height: 35px;
+    margin-top: 7px;
+}
+
+.text-area {
+    margin-top: 20px;
+}
+
+.text-area textarea{
+    width: 95%;
+    margin-top: 7px;
+}
+
+form button {
+    margin-top: 20px;
+    border: none;
+    padding: 15px 35px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    background: #E7761F;
+}
+
+aside {
+    padding-left: 50px;
+    width: 30%;
+}
+
+aside div {
+    width: 280px;
+}
+
+aside h3 {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #dedede;
+}
+
+aside i, aside p {
+    display: inline-flex;
+}
+
+aside .fa {
+    font-size: 20px;
+}
+aside i {
+    color: #00B2A9;
+}
+
+aside p {
+    padding-left: 5px;
+    line-height: 1.5;
+}
+
+aside p.phone {
+    width: 140px;
+}
+
+aside p.address {
+    width: 224px;
+}
+
+aside p.hours {
+    width: 185px;
+}
+
+
+
+
+

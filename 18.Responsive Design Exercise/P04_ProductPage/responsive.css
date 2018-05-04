@@ -1,0 +1,116 @@
+@media all and  (max-width: 640px) {
+
+    body {
+        max-width: 100%;
+    }
+    #header-top-area h2 {
+        display: none;
+    }
+
+    header {
+        width: 100%;
+        display: block;
+
+    }
+
+    #header-top-area {
+        border-bottom: 1px solid #BEC2C3;
+        height: 30px;
+    }
+
+    #header-middle-area {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+        border-bottom: 1px solid #BEC2C3;
+        height: 40px;
+    }
+
+    #header-bottom-area {
+        display: none;
+    }
+
+    #product-menu {
+        display: block;
+        border-bottom: 1px solid #BEC2C3;
+        margin-bottom: 30px;
+        width: 100%;
+    }
+
+    #product-menu ul .product-type .submenu li{
+        background-color:#C5C8C9;
+        color:#d0d3d4;
+        position:relative;
+        display:inline-block;
+        min-width:100%;
+        max-width:640px;
+    }
+
+    #product-menu ul .product-type a:after{
+    content:"";
+    background: url(images/sprite.png) no-repeat -135px -110px;
+    box-sizing:border-box;
+    opacity:0.4;
+    height:52px;
+    width:50px;
+    verflow:hidden;
+    position:relative;
+    float:right;
+    border-left:1px solid #b5b9ba;
+    }
+
+    .wrap {
+        width: 100%;
+    }
+
+    main ul {
+        text-align: center;
+    }
+
+    main ul li:nth-child(2) article {
+        display: none;
+    }
+
+    main ul li:last-child article {
+        display: none;
+    }
+
+    #products-suggestions-list {
+        padding: 0;
+        width: 100%;
+    }
+
+    #products-suggestions-list .wrap {
+        padding-top: 25px;
+    }
+
+    footer {
+        height: 260px;
+        line-height: 15px;
+        width: 100%;
+    }
+
+    footer .share {
+        float: none;
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+
+    footer .share strong {
+        display: inline-block;
+        font-weight: bold;
+        vertical-align: bottom;
+        padding-left: 10px;
+
+    }
+
+    footer .box email-newsletter {
+        width: 100%;
+        float: none;
+        padding: 0;
+        text-align: center;
+    }
+
+
+}

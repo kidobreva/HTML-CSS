@@ -1,0 +1,126 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+
+body {
+    font-family: Tahoma, Helvetica, sans-serif;
+    background: #ebebeb;
+}
+
+main {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    height: 600px;
+}
+
+main header {
+    width: 800px;
+    margin: 0 auto;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+main header h1 {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 40px;
+}
+
+main header p {
+    text-align: center;
+    font-size: 14px;
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
+
+
+main .left {
+    float: left;
+    width: 400px;
+    display: block;
+}
+
+main .left h2 {
+    margin-left: 112px;
+}
+
+main .left input[type="text"] {
+    display: block;
+    margin-left: 112px;
+    margin-bottom: 10px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #dadada;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+main .left span {
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+}
+
+main .left input[type="checkbox"] {
+    margin-left: 100px;
+
+}
+
+main .left button {
+    margin-left: 112px;
+    margin-top: 10px;
+    padding: 15px 40px;
+    background-color: #eeeeee;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+main .right {
+    float: right;
+    width: 400px;
+}
+
+main .right h2 {
+    margin-left: -85px;
+}
+
+main .right input[type="text"], button, a {
+    display: block;
+    margin-bottom: 10px;
+    margin-left: -85px;
+}
+
+main .right input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #dadada;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+main .right a {
+    color: #ee7870;
+    text-decoration: none;
+}
+
+main .right a:hover{
+    text-decoration: underline;
+}
+
+main .right button {
+    padding: 15px 40px;
+    background-color: #eeeeee;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+main .left button:hover, main .right button:hover {
+    background-color: #afdf67;
+    cursor: pointer;
+}
+

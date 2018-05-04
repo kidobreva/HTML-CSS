@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0 auto;
+    width: 890px;
+    font-family: Calibri Light, Verdana, sans-serif;
+    border: 1px solid #a5b2b3;
+    height: 450px;
+    margin-top: 40px;
+}
+
+a{
+
+}
+img{
+    max-width: 100%;
+}
+
+img:hover{
+    opacity: 0.4;
+    cursor: pointer;
+}
+
+article{
+    margin-top: 20px;
+    font-size: 15px;
+}

@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #0E1013;
+}
+
+.container {
+    width: 200px;
+    height: 100px;
+    padding-top: 200px;
+    margin: 0 auto;
+}
+
+.ball {
+    width: 20px;
+    height: 20px;
+    margin: 20px auto;
+    border-radius: 50px;
+    margin-left: 0;
+    animation: example 1s ease-in-out 0s infinite alternate;
+}
+
+/*TODO Animations*/
+
+.ball:nth-child(1) {
+    background: #ff005d;
+    animation-delay: 0s;
+}
+
+.ball:nth-child(2) {
+    background: #35ff99;
+    animation-delay: 0.5s;
+}
+
+.ball:nth-child(3) {
+    background: #008597;
+    animation-delay: 0.4s;
+}
+
+.ball:nth-child(4) {
+    background: #ffcc00;
+    animation-delay: 0.1s;
+}
+
+.ball:nth-child(5) {
+    background: #2d3443;
+    animation-delay: 0.3s;
+}
+
+.ball:nth-child(6) {
+    background: #ff7c35;
+    animation-delay: 0.28s;
+}
+
+.ball:nth-child(7) {
+    background: #4d407c;
+    animation-delay: 0s;
+}
+
+/*background: #ff005d;*/
+
+/*background: #35ff99;*/
+
+/*background: #008597;*/
+
+/*background: #ffcc00;*/
+
+/*background: #2d3443;*/
+
+/*background: #ff7c35;*/
+
+/*background: #4d407c;*/
+
+
+/*TODO @keyframes*/
+
+@keyframes example {
+    0% {
+        margin-left: 0;
+    }
+
+    50% {
+        margin-left: 100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}

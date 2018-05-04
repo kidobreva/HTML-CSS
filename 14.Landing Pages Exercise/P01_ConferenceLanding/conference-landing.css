@@ -1,0 +1,324 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 14px "Roboto",sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    z-index: -1;
+    background-color: #3c3f49;
+}
+
+header {
+    background: url("img/header-bg.png") center center;
+    background-size: cover;
+    position: relative;
+    z-index: 0;
+    height: 720px;
+    color: #ffffff;
+}
+
+header a {
+    color: #ffffff;
+}
+
+header nav {
+    padding: 25px;
+}
+
+header nav h1 {
+    float: left;
+}
+
+header nav ul {
+    float: right;
+}
+
+header nav ul li {
+    float: left;
+    margin: 0 10px;
+}
+
+header nav ul li:hover a {
+    color: orange;
+}
+
+header section.intro {
+    width: 605px;
+    margin: 200px auto 150px;
+}
+
+header section.intro p {
+    width: 500px;
+    float: left;
+    font-size: 30px;
+}
+
+header section.intro i.fa-play-circle {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+header section.intro-articles {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header section.intro-articles article {
+    float: left;
+    width: 25%;
+    height: 240px;
+}
+
+header section.intro-articles article:hover {
+    border-bottom: 5px solid orange;
+}
+
+header section.intro-articles article i {
+    margin-bottom: 50px;
+    height: 50px;
+}
+
+header .fa-2x {
+    margin-bottom: 50px;
+    height: 50px;
+}
+
+header section.intro-articles article p {
+    padding: 0 25px 100px 0;
+    width: 270px;
+}
+
+main section.intro {
+    position: relative;
+}
+
+main section.intro .orange-box{
+    position: absolute;
+    top: 5px;
+    right: 0;
+    width: 450px;
+    height: 450px;
+    background-color: #fa692e;
+    opacity: 0.7;
+}
+
+main section.intro .wrap {
+    width: 960px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+main section.intro .wrap .box {
+    float: left;
+    width: 30%;
+    height: 450px;
+    margin: 0 16px;
+}
+
+main section.intro .wrap .center-box hr {
+    background-color: #dedede;
+    height: 1px;
+    border: 0;
+    margin: 25px 0;
+}
+
+main section.meetings {
+    background-color: #3c3f49;
+    color: #ffffff;
+}
+
+main section.meetings .wrap {
+    width: 900px;
+    margin: 0 auto;
+}
+
+main section.meetings .wrap p {
+    padding: 35px 0 50px 0;
+    font-size: 20px;
+    width: 380px;
+    font-weight: 500;
+}
+
+main section.meetings .wrap ul li {
+    margin: 0 0 60px 0;
+    width: 50%;
+    float: left;
+}
+
+main section.meetings .wrap ul li span.icon-holder i {
+    background-color: #fa692e;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 15px;
+}
+
+main section.meetings .wrap ul li span.time-holder {
+    font-weight: bold;
+    margin: 0 15px;
+}
+
+main section.meetings .wrap ul li span.name-holder {
+    text-transform: capitalize;
+    color: gray;
+}
+
+main section.participants {
+    border: 1px solid #cdcdcd;
+    margin: 10px 0;
+}
+
+main section.participants .wrap {
+    width: 960px;
+    margin: 0 auto;
+}
+
+main section.participants .wrap .heading {
+    height: 100px;
+    margin: 40px 0;
+}
+
+main section.participants .wrap .heading h1 {
+    float: left;
+    width: 30%;
+}
+
+main section.participants .wrap .heading p {
+    float: right;
+    width: 530px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+main section.participants .wrap .speakers {
+    width: 250px;
+    float: left;
+    height: 350px;
+    margin: 15px 20px;
+    box-shadow: 10px 10px 15px -5px rgba(0,0,0,0.25);
+}
+
+main section.participants .wrap .speakers a h1 {
+    text-transform: capitalize;
+    font-size: 17px;
+    margin: 20px;
+    color: #000000;
+}
+
+main section.participants .wrap .speakers h1:hover i {
+    color: #fa692e;
+    border-radius: 50%;
+}
+
+main section.participants .wrap .speakers h2 {
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-left: 20px;
+    color: #fa692e;
+    font-weight: normal;
+}
+
+main section.events {
+    padding: 140px;
+    background: #3c3f49;
+    height: 600px;
+    color: #ffffff;
+    text-align: center;
+}
+
+main section.events .wrap {
+    width: 960px;
+    margin: 0px auto;
+    border: 2px solid grey;
+    height: 400px;
+}
+
+main section.events .wrap h1 {
+    text-transform: uppercase;
+    font-size: 35px;
+    letter-spacing: 1px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+main section.events .wrap p {
+    width: 360px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+
+main section.events .wrap .text-button-container input {
+    border: 0;
+    border-bottom: 1px solid #fa692e;
+    background-color: #3c3f49;
+    color: #ffffff;
+    padding: 2px;
+    width: 130px;
+}
+
+main section.events .wrap .text-button-container button {
+    padding: 5px 15px;
+    margin-left: 35px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #fa692e;
+    border: none;
+}
+
+main section.events .wrap .text-button-container button:hover {
+    background-color: #000000;
+}
+
+footer {
+    background: #282A30;
+    height: 80px;
+    line-height: 80px;
+}
+
+footer h2 {
+    float: left;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+footer p {
+    color: #8D8E91;
+    margin-right: 20px;
+    text-transform: uppercase;
+}
+
+footer p {
+    float: right;
+}

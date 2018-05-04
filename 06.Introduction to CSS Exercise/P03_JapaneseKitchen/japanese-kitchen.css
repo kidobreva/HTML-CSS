@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    background: url("images/dark-wood.jpg");
+}
+
+header{
+    background: url("images/header-page.jpg");
+    background-size: cover;
+    height: 150px;
+    line-height: 150px;
+    width: 900px;
+    margin: auto;
+}
+
+header h1{
+    text-align: right;
+    font-weight: bolder;
+    padding-right: 25px;
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+}
+
+nav{
+    width: 900px;
+    margin: 3px auto;
+    background: url("images/header-page.jpg");
+    background-size: cover;
+    background-position: top center;
+
+}
+nav ul{
+    padding: 3px;
+    list-style: none;
+
+}
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 35px;
+    color: white;
+}
+
+nav ul li a:hover{
+    color: #000000;
+}
+
+nav ul li:first-of-type > a{
+    color: #000000;
+}
+
+main{
+    width: 900px;
+    margin: auto;background-color: #ffffff;
+}
+
+main section.courses{
+    width: 600px;
+    display: inline-block;
+    padding: 25px;
+    border-right: 1px solid #dedede;
+}
+
+main section.courses article{
+    margin: 0 0 25px 0;
+    float: left;
+}
+
+main section.courses article:last-child{
+    margin-bottom: 0;
+}
+
+main section.courses article figure{
+    width: 290px;
+    float: left;
+    margin: 0 15px 0 0;
+}
+
+main section.courses article figure figcaption{
+    padding: 5px 0;
+    color: #7D8184;
+}
+
+main section.courses article div h2{
+    color: #666666;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 5px 0 5px 0;
+}
+
+main section.courses article div h3{
+    color: #DBC272;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 5px 0 12px 0;
+}
+
+main section.courses article p{
+    line-height: 20px;
+    text-align: justify;
+    color: #7D8184;
+}
+
+main aside{
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 35px 25px;
+}
+
+main aside section.popular-recipes h2{
+    color: #DA5F7C;
+    font-size: 25px;
+    line-height: 23px;
+    margin-bottom: 25px;
+}
+
+main aside section.popular-recipes ul{
+    list-style: none;
+}
+
+main aside section.popular-recipes ul li{
+    border-bottom: 1px solid #dedede;
+    padding: 10px 5px;
+}
+
+main aside section.popular-recipes ul li a{
+    text-decoration: none;
+    color: #DA5F7C;
+    font-size: 16px;
+}
+
+footer{
+    background-color: #ADACA8;
+    color: #ffffff;
+    padding: 10px 0;
+    margin-top: 3px;
+    text-align: center;
+}

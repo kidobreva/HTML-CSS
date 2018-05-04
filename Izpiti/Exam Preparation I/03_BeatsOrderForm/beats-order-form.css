@@ -1,0 +1,100 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+@import "https://fonts.googleapis.com/css?family=Open+Sans:400,900";
+
+body {
+    background: linear-gradient(to right, #14353f , #5f666e);
+    font-family: 'Open Sans', sans-serif;
+}
+
+main {
+    width: 900px;
+    background: whitesmoke;
+    margin: 0 auto;
+    height: 540px;
+    border-radius: 10px;
+}
+
+main img {
+    float: left;
+    position: relative;
+    top: -5px;
+    left: 48px;
+    width: 225px;
+}
+
+main h1 {
+    text-transform: uppercase;
+    font-size: 40px;
+    margin-right: 50px;
+    padding-top: 50px;
+    color: #989898;
+    margin-bottom: -40px;
+}
+
+main p {
+    font-size: 40px;
+    margin-right: 50px;
+    color: #757575;
+    font-weight: bold;
+}
+
+h1, p{
+    text-align: right;
+}
+
+main .section-right form {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 60px;
+    margin-right: 77px;
+}
+
+main .section-right input[type="text"] {
+    background: none;
+    border: none;
+    border-bottom: 2px solid #8E8D8B;
+    padding-left: 36px;
+    padding-right: -19px;
+    padding-bottom: 13px;
+    margin-right: -27px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main form .left {
+
+    margin-right: 44px;
+}
+
+main form .right {
+
+}
+
+main .input-field {
+    position: relative;
+    padding-bottom: 23px;
+}
+
+main .input-field i {
+    position: absolute;
+    font-size: 20px;
+    color: #14353f;
+}
+
+main input::placeholder {
+    text-transform: uppercase;
+}
+
+button {
+    float: right;
+    margin-right: 47px;
+    margin-top: 25px;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    border: none;
+    color: #ffffff;
+    background-color: #14353f;
+}
+
+

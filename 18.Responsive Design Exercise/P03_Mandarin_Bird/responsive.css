@@ -1,0 +1,81 @@
+@media all and  (max-width: 730px) {
+    #wrapper {
+        max-width: 100%;
+    }
+    header {
+        width: 100%;
+    }
+
+    header nav > ul {
+        width: 100%;
+        justify-content: center;
+    }
+
+    header nav > ul li {
+        width: 130px;
+    }
+
+    main {
+        width: 100%;
+    }
+
+
+    main aside {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    main aside article {
+        max-width: 85%;
+    }
+
+    footer {
+        width: 100%;
+        text-align: center;
+    }
+
+    footer p {
+        margin-left: 0;
+    }
+}
+
+@media all and  (max-width: 500px) {
+    body {
+        background-color: #585E3A;
+    }
+    #wrapper {
+        width: 80%;
+    }
+
+    header nav {
+        height: 0;
+        border: none;
+    }
+
+    header nav > ul {
+        width: 100%;
+        border: none;
+    }
+    header nav > ul li {
+        width: 100%;
+        border: none;
+    }
+
+    main section {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+
+    main section > div > div {
+        float: none;
+        background: #BACD8B;
+    }
+
+    main > section > div > article {
+        width: 80%;
+        float: left;
+    }
+
+
+}

@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+form {
+    font-family: Georgia, "Times New Roman", serif;
+    margin: 0 auto;
+    border: 1px solid #E4E4E4;
+    max-width: 500px;
+    padding: 0 15px 25px 10px;
+    text-shadow: 1px 1px 1px #FFF;
+    font-size: 12px;
+    color: #888;
+    background-color: #F7F7F7;
+}
+
+form h1 {
+    font-size: 25px;
+    padding: 0 0 10px 40px;
+    display: block;
+    border-bottom: 1px solid #E4E4E4;
+}
+
+form h1 > span {
+    display: block;
+    font-size: 11px;
+}
+
+form label {
+    display: block;
+    margin: 0;
+}
+
+form label span {
+    float: left;
+    width: 86px;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+
+form input[type="text"], #email, textarea, select {
+    border: 1px solid #DADADA;
+    height: 30px;
+    margin-bottom: 16px;
+    margin-right: 6px;
+    margin-top: 2px;
+    outline: 0 none;
+    padding: 3px 3px 3px 5px;
+    width: 323px;
+    line-height: 15px;
+    font-size: 12px;
+}
+
+form textarea {
+    resize: none;
+    padding: 5px 3px 3px 5px;
+    height: 100px;
+}
+
+form selected {
+    height: 35px;
+}
+
+form .button {
+    background: #E27575;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    color: #FFF;
+    box-shadow: 1px 1px 5px #B6B6B6;
+    text-shadow: 1px 1px 1px #9E3F3F;
+    border-radius: 3px;
+    cursor: pointer;
+    margin: 0 87px;
+    width: 200px;
+}

@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="127baf07-1699-48e3-becd-c62184f62320" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Agency.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13.Landing Pages Lab/Agency.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conference-landing.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14.Landing Pages Exercise/P01_ConferenceLanding/conference-landing.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/03.HTML Structure Lab/HTML-CSS" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/18.Responsive Design Exercise/P04_ProductPage/styles.css" />
+        <option value="$PROJECT_DIR$/18.Responsive Design Exercise/P04_ProductPage/responsive.css" />
+        <option value="$PROJECT_DIR$/18.Responsive Design Exercise/P05_Responsive_Cars/styles.css" />
+        <option value="$PROJECT_DIR$/18.Responsive Design Exercise/P05_Responsive_Cars/responsive.css" />
+        <option value="$PROJECT_DIR$/18.Responsive Design Exercise/P06_Planets/responsive.css" />
+        <option value="$PROJECT_DIR$/18.Responsive Design Exercise/P07_Communication-Company/responsive.css" />
+        <option value="$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P05_EditUserForm/proekt.html" />
+        <option value="$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P05_EditUserForm/proekt.css" />
+        <option value="$PROJECT_DIR$/19.Transitions &amp; Animations Lab/P02_Kitchen_Design-Transitions/styles.css" />
+        <option value="$PROJECT_DIR$/19.Transitions &amp; Animations Lab/P03_Sport-Trainers/sport-trainers.css" />
+        <option value="$PROJECT_DIR$/19.Transitions &amp; Animations Lab/P04_ChurchGallery-Transitions/church-gallery.css" />
+        <option value="$PROJECT_DIR$/19.Transitions &amp; Animations Lab/P05.ScrollAnimation/style.css" />
+        <option value="$PROJECT_DIR$/20.Transitions &amp; Animations Exercise/P01_SimpleHoverAnimation/simple-hover-animtion.css" />
+        <option value="$PROJECT_DIR$/20.Transitions &amp; Animations Exercise/P02_SlidingAnimations/sliding.css" />
+        <option value="$PROJECT_DIR$/20.Transitions &amp; Animations Exercise/P03_Loader/loader.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/01.Featured-Tours/text.txt" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/01.Featured-Tours/featured-tours.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/01.Featured-Tours/featured-tours.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/best-product-page.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/best-product-page.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/01_BeatsPricingPage/text.txt" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/01_BeatsPricingPage/best-product-page.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/01_BeatsPricingPage/best-product-page.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/02_BeatsUnresponsive/responsive.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/02_BeatsUnresponsive/beats-order-form.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/02_BeatsUnresponsive/beats-order-form.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/03_BeatsOrderForm/beats-order-form.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/03_BeatsOrderForm/beats-order-form.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/04_BeatsLandingPage/text.txt" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/04_BeatsLandingPage/best-landing-page.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Exam Preparation I/04_BeatsLandingPage/best-landing-page.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/02.Best-Trip-Ever/responsive.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/02.Best-Trip-Ever/best-trip-ever.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/02.Best-Trip-Ever/best-trip-ever.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/03.Get-in-Touch/text.txt" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/03.Get-in-Touch/get-in-touch.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/03.Get-in-Touch/get-in-touch.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/04.Dream-Vacation/dream-vacation.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/04.Dream-Vacation/dream-vacation.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 1/mountain-rooms.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 1/mountain-rooms.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 1/01.MountainRooms/mountain-rooms.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 3/03.MountainForm/mountain-form.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 3/03.MountainForm/mountain-form.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 2/02.MountainResponsive/index.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 2/02.MountainResponsive/style.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 4/04.MountainLanding/text.txt" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 4/04.MountainLanding/mounain-landing.html" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 2/02.MountainResponsive/responsive.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 4/04.MountainLanding/mounain-landing.css" />
+        <option value="$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 1/01.MountainRooms/mountain-rooms.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="740" />
+    <option name="y" value="5" />
+    <option name="width" value="626" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Web Fundamentals - HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Fundamentals - HTML5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web Fundamentals - HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Fundamentals - HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpiti" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web Fundamentals - HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Fundamentals - HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpiti" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpit 29.10.2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web Fundamentals - HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Fundamentals - HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpiti" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpit 29.10.2017" type="462c0819:PsiDirectoryNode" />
+              <item name="Zadacha 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web Fundamentals - HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Fundamentals - HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpiti" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpit 29.10.2017" type="462c0819:PsiDirectoryNode" />
+              <item name="Zadacha 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web Fundamentals - HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Fundamentals - HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpiti" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpit 29.10.2017" type="462c0819:PsiDirectoryNode" />
+              <item name="Zadacha 3" type="462c0819:PsiDirectoryNode" />
+              <item name="03.MountainForm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web Fundamentals - HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Fundamentals - HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpiti" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpit 29.10.2017" type="462c0819:PsiDirectoryNode" />
+              <item name="Zadacha 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web Fundamentals - HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Fundamentals - HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpiti" type="462c0819:PsiDirectoryNode" />
+              <item name="Izpit 29.10.2017" type="462c0819:PsiDirectoryNode" />
+              <item name="Zadacha 4" type="462c0819:PsiDirectoryNode" />
+              <item name="04.MountainLanding" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04.HTML Structure Exercise/create-content.css" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="HTML" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="127baf07-1699-48e3-becd-c62184f62320" name="Default" comment="" />
+      <created>1506104083603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506104083603</updated>
+      <workItem from="1506104094071" duration="7842000" />
+      <workItem from="1506193882700" duration="6402000" />
+      <workItem from="1506342481694" duration="20886000" />
+      <workItem from="1506498829233" duration="48937000" />
+      <workItem from="1506860615790" duration="124122000" />
+      <workItem from="1507909942570" duration="90131000" />
+      <workItem from="1508702650367" duration="104533000" />
+      <workItem from="1509294927499" duration="11644000" />
+      <workItem from="1525265331712" duration="4000" />
+      <workItem from="1525341561402" duration="5000" />
+      <workItem from="1525348622263" duration="1500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="416006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22842261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22913617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/02_BeatsUnresponsive/beats-order-form.html" />
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/01_BeatsPricingPage/best-product-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/01_BeatsPricingPage/best-product-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/02_BeatsUnresponsive/beats-order-form.css" />
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/03_BeatsOrderForm/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P02_Product-Form/product-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P02_Product-Form/product-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1303">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P04_FreeAccount/free-account.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1660">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P05_EditUserForm/edit-user-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.HTML Forms &amp; Form Styling Lab/P01_LoginFormImages/login-form-images.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.HTML Forms &amp; Form Styling Lab/P04_ContactForm/contact-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/04_BeatsLandingPage/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/04_BeatsLandingPage/best-landing-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="76" column="33" lean-forward="false" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/04_BeatsLandingPage/best-landing-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="224" column="1" lean-forward="true" selection-start-line="224" selection-start-column="1" selection-end-line="224" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/02.Best-Trip-Ever/best-trip-ever.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/02.Best-Trip-Ever/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/02.Best-Trip-Ever/best-trip-ever.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P01_Search-Job/search-job.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P01_Search-Job/search-job.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="0" column="93" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P03_RoomReservation/room-reservation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-931">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.HTML Forms &amp; Form Styling Exercise/P03_RoomReservation/room-reservation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/03.Get-in-Touch/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="10" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/03.Get-in-Touch/get-in-touch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="32" lean-forward="false" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/03.Get-in-Touch/get-in-touch.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="79" column="20" lean-forward="false" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/04.Dream-Vacation/dream-vacation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="86" column="41" lean-forward="false" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/04.Dream-Vacation/dream-vacation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="86" column="20" lean-forward="false" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 06.09.2017/04.Dream-Vacation/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 1/mountain-rooms.css" />
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 1/mountain-rooms.html" />
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 1/01.MountainRooms/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18.Responsive Design Exercise/P01_Responsive_CV/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.HTML Forms &amp; Form Styling Lab/P01_LoginFormImages/login-form-images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.HTML Forms &amp; Form Styling Lab/P05_ArrangingTheWidths/arranging-the-widths.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.HTML Forms &amp; Form Styling Lab/P05_ArrangingTheWidths/arranging-the-widths.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.HTML Forms &amp; Form Styling Lab/P02_LoginForm-font-awesome/login-form-font-awesome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.HTML Forms &amp; Form Styling Lab/P02_LoginForm-font-awesome/login-form-font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-860">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/03_BeatsOrderForm/beats-order-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1201">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Exam Preparation I/03_BeatsOrderForm/beats-order-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 3/03.MountainForm/mountain-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 3/03.MountainForm/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 4/04.MountainLanding/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 2/02.MountainResponsive/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1571">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 4/04.MountainLanding/mounain-landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="183" column="14" lean-forward="false" selection-start-line="183" selection-start-column="14" selection-end-line="183" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 2/02.MountainResponsive/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 1/01.MountainRooms/mountain-rooms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="65" column="42" lean-forward="false" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 3/03.MountainForm/mountain-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 1/01.MountainRooms/mountain-rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 2/02.MountainResponsive/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="4" column="74" lean-forward="false" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Izpiti/Izpit 29.10.2017/Zadacha 4/04.MountainLanding/mounain-landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.Landing Pages Lab/Agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.Landing Pages Exercise/P01_ConferenceLanding/conference-landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

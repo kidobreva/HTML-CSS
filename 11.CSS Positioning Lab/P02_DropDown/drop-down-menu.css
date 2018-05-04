@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 22px;
+    background: #1d211e;
+    text-align: center;
+    line-height: 22px;
+}
+
+nav {
+    background: #e67c1f;
+    margin: 50px 0;
+    height: 70px;
+    line-height: 70px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    margin: 15px;
+}
+
+nav a:hover {
+    background: #000000;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+}
+
+nav ul li:hover > ul {
+    display: inline-block;
+}
+
+nav ul ul li {
+    position: relative;
+    display: block;
+    background-color: #e67c1f;
+    width: 170px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav ul ul ul.second-drop-down {
+    margin-left: 23px;
+}
+

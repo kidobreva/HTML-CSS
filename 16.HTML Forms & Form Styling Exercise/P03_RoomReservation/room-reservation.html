@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="room-reservation.css">
+    <title>Room Reservation</title>
+</head>
+<body>
+    <main>
+        <header>
+            <h1>Room Reservation</h1>
+        </header>
+        <section>
+            <div>
+                <h2>Basic Information</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nibh varius odio sollicitudin
+                    blandit nec eu elit. Suspendisse ac risus nunc, quis elementum lorem. Pellentesque vehicula egestas eros
+                    nec commodo.
+                </p>
+            </div>
+
+            <label>
+                <span>Search</span>
+                <input type="search">
+                <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+            </label>
+            <div class="clearfix"></div>
+        </section>
+
+        <form action="#">
+            <label class="left">
+                <h2>Personal Details</h2>
+                <input type="text" placeholder="First Name">
+                <input type="text" placeholder="Last Name">
+                <input type="text" placeholder="Enter Name">
+            </label>
+
+            <div class="right">
+                <h2>Request a reservation</h2>
+                <span>Select a Room</span>
+                <select name="room">
+                    <option value="1">Room 1</option>
+                    <option value="2">Room 2</option>
+                    <option value="3" selected>Room 3</option>
+                    <option value="4">Room 4</option>
+                </select>
+
+                <label id="number">
+                    <span>Number of Rooms</span>
+                    <input type="number" value="1">
+                </label>
+
+                <div class="chek">
+                    <label id="check-in">
+                        <span>Check-In:</span>
+                        <input type="date" name="check-in" value="dd/mm/yyyy">
+                    </label>
+
+                    <label id="check-out">
+                        <span>Check-Out:</span>
+                        <input type="date" name="check-out" value="dd/mm/yyyy">
+                    </label>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+
+
+            <button>book now</button>
+        </form>
+    </main>
+</body>
+</html>

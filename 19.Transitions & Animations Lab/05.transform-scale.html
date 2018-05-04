@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scale</title>
+    <style>
+        img {
+            margin: 100px auto;
+            display: block;
+            transition: transform 5s;
+        }
+        .cat:hover {
+            transform:scaleX(1.2);
+        }
+        .rabbit:hover {
+            /*transform:skewY(-45deg);*/
+            transform:scaleY(1.5);
+        }
+    </style>
+</head>
+<body>
+<img src="img/cat.jpg" class="cat" width="200px" height="200px" alt="">
+<img src="img/rabbit.jpg" class="rabbit" width="200px" height="200px" alt="">
+</body>
+</html>

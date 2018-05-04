@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #333333;
+    background-color: #24437C;
+}
+
+header nav{
+    height: 50px;
+}
+
+header nav img{
+    max-width: 100%;
+    width: 100px;
+    margin: 25px;
+}
+
+header nav ul.nav-primary{
+    float: right;
+    list-style: none;
+    margin-right: 30px;
+}
+
+header nav ul.nav-primary li.nav-item{
+    display: inline-block;
+    margin: 10px;
+    padding: 20px 10px 0 0;
+}
+
+header nav ul.nav-primary li.nav-item a{
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+header nav ul.nav-primary li.nav-item a:hover{
+    background-color: #3DC1EF;
+    padding: 10px 15px 10px 15px;
+    border-radius: 15px;
+}
+
+header h1.header-title{
+    text-align: center;
+    margin-top: 160px;
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: normal;
+    color: #ffffff;
+    letter-spacing: 3px;
+}
+
+header h2.header-subtitle{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: normal;
+    color: #447C9F;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+header div#button-container{
+    text-align: center;
+    margin-top: 40px;
+}
+
+header div#button-container a{
+    color: #ffffff;
+    border: 1px solid #3DC1EF;
+    padding: 9px 18px 9px 18px;
+    text-transform: capitalize;
+    background-color: #3DC1EF;
+    border-radius: 10px;
+
+}
+
+header ul.header-services{
+    width: 1400px;
+    margin: auto;
+    padding-top: 80px;
+    list-style: none;
+}
+
+header ul.header-services li.service{
+    padding: 0 15px;
+}
+
+header ul.header-services li.service article{
+    padding-right: 35px;
+    width: 300px;
+    float: left;
+    margin-left: 120px;
+    margin-top: 50px;
+    height: 300px;
+}
+
+header ul.header-services li.service:hover article{
+    background-color: #3DC1EF;
+}
+
+header ul.header-services li.service article h2.service-title{
+    color: #ffffff;
+    width: 200px;
+    padding-left: 25px;
+    font-weight: normal;
+    letter-spacing: 3px;
+    cursor: pointer;
+}
+
+header ul.header-services li.service article p.service-intro{
+    color: #ffffff;
+    margin-top: 40px;
+    font-size: 15px;
+    line-height: 20px;
+    width: 270px;
+}
+
+header ul.header-services li.service article p.service-intro a.service-link{
+    color: #ffffff;
+    margin: 54px;
+    margin-left: 0px;
+    margin-top: 30px;
+    text-decoration: none;
+    display: block;
+}

@@ -1,0 +1,135 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+body {
+    background: linear-gradient(180deg, #9bacc4, lightgray 50%, #9bacc4);
+}
+
+aside{
+    float: right;
+    width: 30%;
+
+}
+
+.text-uppercase {
+    text-transform: capitalize;
+
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+.center {
+    text-align: center;
+}
+
+.clearfix {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+footer {
+    background-color: #293f50;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    padding: 10px 0;
+}
+
+
+
+main {
+
+    padding-bottom: 20px;
+}
+
+main h1 {
+    padding: 50px 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+.list-group {
+    overflow: auto;
+    height: 300px;
+}
+#follow img{
+    max-width: 50%;
+
+
+}
+#icons{
+    width: 100%;
+    text-align: center;
+}
+
+#events{
+    text-align: center;
+
+}
+
+.browse-files {
+    width: 200px;
+}
+
+
+input[type=url] {
+    display: none;
+    width: 20px;
+}
+
+.url-adress:hover input[type=url]:hover{
+    display: inline;
+    width: 100px;
+}
+
+ul.dropdown-menu label:hover {
+    cursor: pointer;
+}
+
+/* Bootsrap Profil css */
+
+.profile
+{
+    min-height: 355px;
+    display: inline-block;
+}
+figcaption.ratings
+{
+    margin-top:20px;
+}
+figcaption.ratings a
+{
+    color:#f1c40f;
+    font-size:11px;
+}
+figcaption.ratings a:hover
+{
+    color:#f39c12;
+    text-decoration:none;
+}
+.divider
+{
+    border-top:1px solid rgba(0,0,0,0.1);
+}
+span.tags
+{
+    background: #1abc9c;
+    border-radius: 2px;
+    color: #f5f5f5;
+    font-weight: bold;
+    padding: 2px 4px;
+}

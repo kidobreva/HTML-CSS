@@ -1,0 +1,72 @@
+@import "https://fonts.googleapis.com/css?family=Lato";
+@import "https://fonts.googleapis.com/css?family=Montserrat";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    background: #EEF3FA;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+    background: #FFFFFF;
+}
+
+main header h1 {
+    text-align: center;
+    padding: 50px 0;
+    color: #383A47;
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+main section {
+    display: flex;
+    justify-content: center;
+}
+
+main section div:nth-child(2) {
+    margin: 0 20px;
+}
+
+main section div h2 {
+    color: #383A47;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 20px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main section div span {
+    color: #969598;
+}
+
+main section div span.balcony {
+    margin: 0 20px;
+}
+
+main section div p {
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #969598;
+    font-size: 14px;
+    margin-bottom: 32px;
+}
+
+main section div p span {
+    color: #1D3AB0;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
